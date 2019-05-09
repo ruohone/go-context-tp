@@ -1,0 +1,7 @@
+*.swp
+*.tmp
+/bin
+/pkg
+/.idea
+nohup.out
+go.sum
